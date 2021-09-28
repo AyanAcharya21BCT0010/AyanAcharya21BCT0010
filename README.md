@@ -5,6 +5,6 @@
 - 📫 How to reach me : Instagram -> @ayanhca02
 
 <!---
-AyanAcharya21BCT0010/AyanAcharya21BCT0010 is a ✨ special ✨ repository because its `READABOUTME.md` (this file) appears on your GitHub profile.
+AyanAcharya21BCT0010/AyanAcharya21BCT0010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
